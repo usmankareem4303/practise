@@ -6,3 +6,10 @@ git add
 git merge
 git reset
 git switch
+
+man pwd
+man cd
+man /home
+ls
+-lah
+man mkdir
