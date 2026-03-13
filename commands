@@ -13,3 +13,18 @@ man /home
 ls
 -lah
 man mkdir
+-p physical
+rmdir
+-- show-all
+--show ends
+uptime
+ps A
+man top
+htop
+ifconfig
+ip a
+sudo
+apt
+sudo apt search
+sudo apt remove
+
