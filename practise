@@ -15,3 +15,4 @@ birthday= "26-12-2004"
 echo "my birthday is $birthday"
 country= "Ireland"
 echo "I am from $country"
+
