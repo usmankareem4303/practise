@@ -15,4 +15,9 @@ birthday= "26-12-2004"
 echo "my birthday is $birthday"
 country= "Ireland"
 echo "I am from $country"
-
+food= "pasta"
+echo "my favorite food is $food"
+game= "warframe"
+echo "my favorite game is $game"]
+sport= "track and field"
+echo "my favorite sport is $sport"
